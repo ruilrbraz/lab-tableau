@@ -1,6 +1,3 @@
-:) delivery: https://public.tableau.com/app/profile/rui.braz/viz/tableau-lab_17638257228930/ustomerDemographicOverview?publish=yes&showOnboarding=true
-
-
 ![logo_ironhack_blue 7](https://user-images.githubusercontent.com/23629340/40541063-a07a0a8a-601a-11e8-91b5-2f13e4e6b441.png)
 
 # Lab | Tableau
@@ -38,4 +35,9 @@ Upon completion of this lab, you will be able to:
 9. **Dashboard Assembly**: Compile all the created sheets into a single, interactive dashboard for an integrated view of the data insights.
 
 10. **Save Your Work**: Preserve your Tableau workbook by saving it as `tableau-lab.tbwx`.
+
+
+
+
+delivery: https://public.tableau.com/app/profile/rui.braz/viz/tableau-lab_17638257228930/ustomerDemographicOverview?publish=yes&showOnboarding=true
 
